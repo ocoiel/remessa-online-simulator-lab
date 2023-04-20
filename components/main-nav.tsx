@@ -22,7 +22,7 @@ export function MainNav({ items }: MainNavProps) {
           width={24}
           height={24}
         />
-        <span className="hidden font-bold sm:inline-block">
+        <span className="hidden font-bold text-remessa sm:inline-block">
           {siteConfig.name}
         </span>
       </Link>
