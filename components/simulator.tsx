@@ -1,8 +1,10 @@
 import { Converter } from "./converter"
+import { Tabs } from "./tabs"
 
 export function Simulator() {
   return (
-    <div className="dark:bg-dark h-96 w-80 rounded-lg border border-border bg-slate-50 dark:bg-slate-950">
+    <div className="h-96 w-80 rounded-lg border border-border bg-white dark:bg-slate-950">
+      <Tabs />
       <Converter tab="enivar" />
     </div>
   )
