@@ -1,12 +1,8 @@
-# next-template
+# Remessa Online - Simulator
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+Projeto para com fins educacionais para recriar a interface e funcionamento do simulador de recebimento e envio de dinheiro do exterior do site do Remessa Online
 
-## Usage
-
-```bash
-npx create-next-app -e https://github.com/shadcn/next-template
-```
+(https://simulator.remessaonline.com.br/)
 
 ## Features
 
@@ -18,6 +14,4 @@ npx create-next-app -e https://github.com/shadcn/next-template
 - Automatic import sorting with `@ianvs/prettier-plugin-sort-imports`
 - Tailwind CSS class sorting, merging and linting.
 
-## License
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
